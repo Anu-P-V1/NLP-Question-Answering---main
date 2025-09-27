@@ -1,1 +1,1 @@
-Question Answering (QA) system is powered by the BERT (Bidirectional Encoder Representations from Transformers) model. It takes a context passage and a user’s question as input, and returns the most relevant answer span predicted from the passage.
+The project implements a Question Answering (QA) system powered by the BERT (Bidirectional Encoder Representations from Transformers) model. It takes a context passage and a user’s question as input, and returns the most relevant answer span predicted from the passage.
